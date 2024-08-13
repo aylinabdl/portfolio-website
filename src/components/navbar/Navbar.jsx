@@ -12,7 +12,6 @@ const Menu = () => (
     <p><a href='#services'>Services</a></p>
     <p><a href='#about'>About</a></p>
     
-    <p><a href='' target="_blank">Download CV</a></p>
     </>
 )
 
