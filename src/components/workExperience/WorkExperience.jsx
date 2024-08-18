@@ -19,7 +19,7 @@ function WorkExperience() {
 
                 <TimelineBlock icon={<SchoolIcon fontSize='large' />} title='' duration='' company='Google UX Design Course' text="I completed the Google UX Design course, where I learned the fundamentals of UX design." />
 
-                <TimelineBlock icon={<SchoolIcon fontSize='large' />} title='' duration='' company='SheCodes Front-End Courses' text="I completed the Google UX Design course, where I learned the fundamentals of UX design." />
+                <TimelineBlock icon={<SchoolIcon fontSize='large' />} title='' duration='' company='SheCodes Front-End Courses' text="" />
 
             </div>
         </div>
