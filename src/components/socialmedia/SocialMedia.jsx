@@ -12,7 +12,7 @@ function SocialMedia() {
     return (
         <div className='socialmedia'>
             <div className='socialmedia-icon'>
-                <a href='' target="_blank" rel="noopener noreferrer">
+                <a href='https://www.linkedin.com/in/aylin-abdollahi-275968233' target="_blank" rel="noopener noreferrer">
                     <LinkedInIcon sx={{ color: '#fff' }} fontSize='large' />
                 </a>
             </div>
