@@ -147,7 +147,8 @@
     }
 
     .hero-image img{
-        margin-right: auto;
+        display: none;
+        
     }
 
     .explore-btn{
