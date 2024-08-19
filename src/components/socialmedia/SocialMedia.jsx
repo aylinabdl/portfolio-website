@@ -12,17 +12,17 @@ function SocialMedia() {
     return (
         <div className='socialmedia'>
             <div className='socialmedia-icon'>
-                <a href='https://www.linkedin.com/in/nahyan-sharvin/' target="_blank" rel="noopener noreferrer">
+                <a href='' target="_blank" rel="noopener noreferrer">
                     <LinkedInIcon sx={{ color: '#fff' }} fontSize='large' />
                 </a>
             </div>
             <div className='socialmedia-icon'>
-                <a href='https://github.com/nahyansharvin' target="_blank" rel="noopener noreferrer">
+                <a href='https://github.com/aylinabdl' target="_blank" rel="noopener noreferrer">
                     <GitHubIcon sx={{ color: '#fff' }} fontSize='large' />
                 </a>
             </div>
             <div className='socialmedia-icon'>
-                <a href='https://dribbble.com/nahyansharvin' target="_blank" rel="noopener noreferrer">
+                <a href='' target="_blank" rel="noopener noreferrer">
                     <FaDribbble style={{ color: '#fff', fontSize: '32px' }} />
                 </a>
             </div>
