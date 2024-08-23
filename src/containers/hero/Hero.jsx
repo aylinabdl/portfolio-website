@@ -3,7 +3,7 @@ import './hero.css'
 
 //Assets
 
-import wb_img from "../../assets/Asset 2.png"
+import wb_img from "../../assets/ASSETT.png"
 
 function Hero() {
     return (
