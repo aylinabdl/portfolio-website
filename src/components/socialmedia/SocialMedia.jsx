@@ -5,8 +5,8 @@ import './socialmedia.css';
 import GitHubIcon from '@mui/icons-material/GitHub';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 
-// React Icons for Dribbble
-import { FaDribbble } from 'react-icons/fa';
+// React Icons for Behance
+import { FaBehance } from 'react-icons/fa';
 
 function SocialMedia() {
     return (
@@ -22,8 +22,8 @@ function SocialMedia() {
                 </a>
             </div>
             <div className='socialmedia-icon'>
-                <a href='' target="_blank" rel="noopener noreferrer">
-                    <FaDribbble style={{ color: '#fff', fontSize: '32px' }} />
+                <a href='https://www.behance.net/aylinabdollahi' target="_blank" rel="noopener noreferrer">
+                    <FaBehance style={{ color: '#fff', fontSize: '32px' }} />
                 </a>
             </div>
         </div>
