@@ -10,7 +10,7 @@ function Services() {
         <div className='services section-margin' id='services'>
         <h1 className='gradient-text'>Services Offered</h1>
         <div className='services-container'>
-            <Service icon={DigitalMarketing} title='Ui/Ux Design' text='As a UI/UX designer, I create intuitive and engaging user experiences. With skills in wireframing, prototyping, and user research, I enhance both usability and visual appeal.' />
+            <Service icon={DigitalMarketing} title='UI/UX Design' text='As a UI/UX designer, I create intuitive and engaging user experiences. With skills in wireframing, prototyping, and user research, I enhance both usability and visual appeal.' />
             <Service icon={Brackets} title='Web Development' text='Skilled in HTML, CSS, JavaScript, React, and familiar with MUI, I effectively translate designs into responsive, high-quality code.
 
 ' />
