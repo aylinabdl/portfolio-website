@@ -29,6 +29,7 @@
 .service-grid p{
     margin-top: 10px;
     line-height: 25px;
+    font-weight: 500;
 }
 
 .service-grid-icon{

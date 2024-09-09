@@ -5,7 +5,7 @@ import './resume.css'
 function Resume() {
     return (
         <div className='resume section-margin' id='about'>
-        <h1 className='gradient-text'>My Credentials</h1>
+        <h1 className='gradient-text'></h1>
         <WorkExperience />
         <Education />
         </div>
