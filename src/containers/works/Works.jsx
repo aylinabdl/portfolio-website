@@ -6,7 +6,7 @@ import './works.css'
 import dAP from '../../assets/projects/miro.jpg'
 import Travel from '../../assets/projects/travelsite.jpg'
 import MovieApp from '../../assets/projects/Movienet.png'
-import piazza from '../../assets/projects/pi.jpg'
+import piazza from '../../assets/projects/piaza.png'
 import Taskies from '../../assets/projects/tasskies.jpg'
 
 
