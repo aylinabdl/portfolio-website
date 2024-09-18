@@ -12,7 +12,7 @@ function Footer() {
         <div className='footer section-padding'> 
             
             <SocialMedia />
-            
+           
         </div>
     )
 }

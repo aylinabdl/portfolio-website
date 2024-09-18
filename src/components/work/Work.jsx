@@ -1,7 +1,7 @@
-import React from 'react'
-import './work.css'
+import React from 'react';
+import './work.css';
 
-function Work({ image, title, subTitle, text, codeLink, liveLink }) {
+function Work({ image, title, subTitle, text, codeLink, liveLink, figmaLink }) {
     return (
         <div className='work-grid'>
             <div className='work-grid-image'>
@@ -13,13 +13,14 @@ function Work({ image, title, subTitle, text, codeLink, liveLink }) {
                 <p>{text}</p>
 
                 <div className='work-grid-body-btn'>
-                    <a href={codeLink} target="_blank">Figma Link</a>
-                    {liveLink && <a href={liveLink} target="_blank">Live App</a> }
+                    {codeLink && <a href={codeLink} target="_blank" rel="noopener noreferrer">Behance</a>}
+                    {liveLink && <a href={liveLink} target="_blank" rel="noopener noreferrer">Live App</a>}
+                    {figmaLink && <a href={figmaLink} target="_blank" rel="noopener noreferrer">Figma</a>}
                 </div>
 
             </div>
         </div>
-    )
+    );
 }
 
-export default Work
+export default Work;
