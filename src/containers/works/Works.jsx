@@ -16,7 +16,7 @@ function Works() {
         <h1 className='gradient-text'>Portfolio</h1>
         <h3>Check Out Some of My Projects.</h3>
             <div className='works-container'>
-                <Work image={dAP} title="Visitsho App" subTitle="Case Study" text="Simplifies booking and managing doctor appointments with reminders and secure scheduling." codeLink="" />
+                <Work image={dAP} title="Visitsho App" subTitle="Case Study" text="Simplifies booking and managing doctor appointments with reminders and secure scheduling." codeLink="https://www.behance.net/gallery/208448847/Doctor-Appointment-Application-Case-Study" />
 
                  <Work image={piazza} title="Piazza Redesign" subTitle="Case Study" text="Collaborative platform for students and instructors to share knowledge, homeworks and ask questions" codeLink="https://www.behance.net/gallery/208203115/Piazza-Redesign-Case-Study" figmaLink="https://www.figma.com/design/i8bHgaxLUpa9OQ1TJAO1xY/Piazza-case-study-and-design?node-id=218-2854&t=Aiso7xd4Qgu1pqN2-1"/>
 
