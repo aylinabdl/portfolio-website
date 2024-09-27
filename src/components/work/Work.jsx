@@ -1,7 +1,7 @@
 import React from 'react';
 import './work.css';
 
-function Work({ image, title, subTitle, text, codeLink, liveLink, figmaLink }) {
+function Work({ image, title, subTitle, text, codeLink, liveLink, figmaLink , Dribblelink}) {
     return (
         <div className='work-grid'>
             <div className='work-grid-image'>
@@ -16,6 +16,7 @@ function Work({ image, title, subTitle, text, codeLink, liveLink, figmaLink }) {
                     {codeLink && <a href={codeLink} target="_blank" rel="noopener noreferrer">Behance</a>}
                     {liveLink && <a href={liveLink} target="_blank" rel="noopener noreferrer">Live App</a>}
                     {figmaLink && <a href={figmaLink} target="_blank" rel="noopener noreferrer">Figma</a>}
+                    {Dribblelink && <a href={Dribblelink} target="_blank" rel="noopener noreferrer">Dribble</a>}
                 </div>
 
             </div>
