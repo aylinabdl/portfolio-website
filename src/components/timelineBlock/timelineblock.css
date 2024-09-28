@@ -3,6 +3,7 @@
     padding-top: 1.5rem;
     margin-top: 1.5rem;
     color: #ffffff;
+    
 }
 
 .timeline-icon{
@@ -34,6 +35,7 @@
 .timeline-content{
     margin-left: 35%;
     padding-left: 60px;
+    margin-top: -50px;
 }
 
 .timeline-content h3{
