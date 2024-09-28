@@ -20,7 +20,7 @@ function Works() {
 
                  <Work image={piazza} title="Piazza Redesign" subTitle="Case Study" text="Collaborative platform for students and instructors to share knowledge, homeworks and ask questions" codeLink="https://www.behance.net/gallery/208203115/Piazza-Redesign-Case-Study" figmaLink="https://www.figma.com/design/i8bHgaxLUpa9OQ1TJAO1xY/Piazza-case-study-and-design?node-id=218-2854&t=Aiso7xd4Qgu1pqN2-1"/>
 
-                 <Work image={FinApp} title="Finance App" subTitle="UI/UX Design" text="Manage all your bank accounts, view balances, and track expenses with an intuitive and secure interface." Dribblelink="https://dribbble.com/shots/24936070-Finance-App?added_first_shot=true" />
+                 <Work image={FinApp} title="Finance App" subTitle="UI/UX Design" text="Manage all your bank accounts, view balances, and track expenses with an intuitive and secure interface." codeLink="https://www.behance.net/gallery/209019835/Finance-Application" />
 
                  <Work image={Taskies} title="Taskies" subTitle="UI/UX Design" text="Organize tasks and projects, set priorities, and collaborate efficiently to achieve your goals." figmaLink="https://www.figma.com/design/oGh2yCbLYjoWyeohNJbzt3/Taskies?node-id=0-1&t=B9Ac4kx4vhUmrbsQ-1" />
 
