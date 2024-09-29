@@ -28,8 +28,9 @@ function Navbar() {
                     <Menu />
                 </div>
                 <div className='portfolio-navbar-ctabtn'>
-                    <a href='https://drive.google.com/file/d/1EVcbbCgD6RSj3Fpkxr8A-CbADENXq2iW/view?usp=drive_link'>Download CV</a>
+                    <a href='https://drive.google.com/file/d/1EVcbbCgD6RSj3Fpkxr8A-CbADENXq2iW/view?usp=sharing'>Download CV</a>
                 </div>
+                
                 <div className='portfolio-navbar-menu'>
                     {toggleMenu ? <RiCloseLine color='#fff' size={27} onClick={() => setToggleMenu(false)} />
                     : <RiMenu3Line color='#fff' size={27} onClick={() => setToggleMenu(true)} />
