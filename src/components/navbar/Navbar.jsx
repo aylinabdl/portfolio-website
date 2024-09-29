@@ -28,7 +28,7 @@ function Navbar() {
                     <Menu />
                 </div>
                 <div className='portfolio-navbar-ctabtn'>
-                    <a href='#works'>Portfolio</a>
+                    <a href='https://drive.google.com/file/d/1EVcbbCgD6RSj3Fpkxr8A-CbADENXq2iW/view?usp=drive_link'>Download CV</a>
                 </div>
                 <div className='portfolio-navbar-menu'>
                     {toggleMenu ? <RiCloseLine color='#fff' size={27} onClick={() => setToggleMenu(false)} />
@@ -51,3 +51,4 @@ function Navbar() {
 }
 
 export default Navbar
+
