@@ -11,7 +11,7 @@ function Hero() {
         <div className='hero section-padding' id='home'>
             <div className='hero-content'>
                 <h1 className='gradient-text'>I’m Aylin Abdollahi</h1>
-                <h2>Designer and Front-End Developer</h2>
+                <h2>UI/UX Designer</h2>
                 <p>My mission is to create engaging, user-friendly web interfaces and software solutions using advanced design and development tools.</p>
                 
                 <p>contact: <a href='mailto:ailinabdollahi113@gmail.com' style={{textDecoration: 'underline'}}>ailinabdollahi113@gmail.com</a></p>
