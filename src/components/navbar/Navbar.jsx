@@ -28,7 +28,7 @@ function Navbar() {
                     <Menu />
                 </div>
                 <div className='portfolio-navbar-ctabtn'>
-                    <a href='https://drive.google.com/file/d/1EVcbbCgD6RSj3Fpkxr8A-CbADENXq2iW/view?usp=sharing'>Download CV</a>
+                    <a href='https://drive.google.com/file/d/1Mk27NrsKhwq3Pq8PIaafHMmgpGz2V226/view?usp=sharing'>Download CV</a>
                 </div>
                 
                 <div className='portfolio-navbar-menu'>
