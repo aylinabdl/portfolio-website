@@ -58,7 +58,7 @@
 }
 
 .work-grid-body-btn a{
-    background-color: #EA1744;
+    background-color: #943dba;
     height: 35px;
     width: 95px;
     border-radius: 8px;
@@ -70,5 +70,5 @@
 
 .work-grid-body-btn a:hover{
     background-color: #fff;
-    color: #EA1744;
+    color: #55236b;
 }
