@@ -13,7 +13,7 @@
     flex-wrap: wrap;
     padding: 2rem;
     
-    justify-content: center;
+    justify-content:left
 }
 
 @media screen and (max-width: 480px) {
