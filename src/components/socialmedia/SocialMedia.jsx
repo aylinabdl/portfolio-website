@@ -5,8 +5,11 @@ import './socialmedia.css';
 import GitHubIcon from '@mui/icons-material/GitHub';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 
+
 // React Icons for Behance
 import { FaBehance } from 'react-icons/fa';
+
+import { FaDribbble } from 'react-icons/fa';
 
 function SocialMedia() {
     return (
@@ -16,7 +19,11 @@ function SocialMedia() {
                     <FaBehance style={{ color: '#fff', fontSize: '32px' }} />
                 </a>
             </div>
-
+             <div className='socialmedia-icon'>
+                 <a href='https://dribbble.com/aylin_abd' target='_blank' rel="noopener noreferrer">
+                 <FaDribbble style={{color: "#fff"}} fontSize='32px' />
+                 </a>
+             </div>
             <div className='socialmedia-icon'>
 
                 
