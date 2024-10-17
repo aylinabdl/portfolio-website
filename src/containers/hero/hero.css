@@ -94,6 +94,21 @@
     }
 }
 
+.profile-image-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px; /* فاصله بین تصویر و نام */
+}
+
+.profile-image {
+    width: 100px; /* سایز تصویر */
+    height: 100px;
+    border-radius: 50%; /* برای دایره‌ای کردن تصویر */
+    object-fit: cover; /* تصویر را به درستی در دایره جا می‌دهد */
+    
+}
+
+
 @media screen and (max-width: 650px) {
     .hero h1{
         font-size: 48px;
@@ -102,7 +117,7 @@
 
     .hero h2{
         font-size: 34px;
-        margin-top: -14px;
+        margin-top: -18px;
         font-weight: 400;
         letter-spacing: 3.3px;
     }
