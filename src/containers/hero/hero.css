@@ -229,3 +229,38 @@ html body [data-ca3_iconfont="ETmodules"]::before {
   100% { transform:translate(0,20px); opacity: 0; }
 }
 /* Scroll animation ends here */
+
+@keyframes fadeIn {
+    0% {
+      opacity: 0;
+      transform: translateY(-20px); /* حرکت کمی از بالا به پایین */
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0); /* توقف در موقعیت نهایی */
+    }
+  }
+  
+  /* اعمال انیمیشن fadeIn به hero-content */
+  .hero-content {
+    animation: fadeIn 1.5s ease-in-out;
+  }
+  
+  /* اعمال انیمیشن fadeIn به hero-image */
+  .hero-image img {
+    animation: fadeIn 1.5s ease-in-out;
+  }
+  
+  /* برای پروفایل تصویر هیچ انیمیشنی اعمال نمی‌شود */
+  .profile-image-container img {
+    animation: none; /* بدون انیمیشن برای تصویر پروفایل */
+  }
+  
+  .animated-text {
+    font-size: 2.5rem;
+    font-weight: bold;
+    background: linear-gradient(90deg, #a16eff, #fc8854);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  
