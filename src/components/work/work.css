@@ -1,4 +1,4 @@
-.work-grid{
+/*}.work-grid{
     background: var(--color-blog);
     max-width: 350px;
     border-radius: 10px;
@@ -69,6 +69,91 @@
 }
 
 .work-grid-body-btn a:hover{
+    background-color: #fff;
+    color: #55236b;
+}
+*/
+
+.work-grid{
+    background: var(--color-blog);
+    max-width: 350px;
+    border-radius: 10px;
+    margin: 2rem;
+}
+
+.work-grid-image{
+    overflow: hidden;
+    max-height: 250px;
+    border-radius: 10px 10px 0 0;
+}
+
+.work-grid-image img{
+    width: 100%;
+    
+}
+
+.work-grid-body{
+    padding: 2rem;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.work-grid-body h2{
+    color: #fff;
+    font-size: 1.8rem;
+}
+
+.work-grid-body h4{
+    color: var(--color-text);
+    margin-top: -5px;
+}
+
+.work-grid-body p{
+    color: var(--color-text);
+    margin-top: 1.5rem;
+}
+
+.work-grid-body h2::after{
+    content: "";
+    display: block;
+    height: 3px;
+    width: 50px;
+    background: var(--gradient-bar);
+    position: absolute;
+    margin-top: 1.8rem;
+}
+
+.work-grid-body-btn{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    color: #fff;
+    margin-top: 1rem;
+}
+
+
+.work-grid-body-btn a,
+.work-grid-body-btn button {
+    
+    font-weight: 500;
+    font-size: medium;
+    background-color: #943dba;
+    height: 35px;
+    width: 95px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 0.3s;
+    border: none; /* Remove button border */
+    cursor: pointer; /* Ensure the button has the pointer cursor */
+    color: #fff; /* Make text color consistent */
+}
+
+.work-grid-body-btn a:hover,
+.work-grid-body-btn button:hover {
     background-color: #fff;
     color: #55236b;
 }
