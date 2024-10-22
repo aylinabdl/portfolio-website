@@ -5,7 +5,7 @@ import './works.css'
 //Images
 import dAP from '../../assets/projects/visitsho-cover.png'
 import Travel from '../../assets/projects/travelsite.jpg'
-import MovieApp from '../../assets/projects/mov.png'
+import MovieApp from '../../assets/projects/movin.png'
 import piazza from '../../assets/projects/piaza.png'
 import Taskies from '../../assets/projects/tasskies.jpg'
 import FlyEase from '../../assets/projects/flyymo.png'
