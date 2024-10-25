@@ -12,8 +12,9 @@ function Footer() {
         <div className='footer section-padding'> 
             
             <SocialMedia />
-           <h3>Developed by Aylin Abdollahi</h3>
+           
         </div>
+        
     )
 }
 

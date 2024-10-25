@@ -4,7 +4,7 @@ import './hero.css'
 //Assets
 
 import wb_img from "../../assets/ASSETT.png"
-import my_img from "../../assets/photo_2024-10-17_19-11-33.jpg"
+import my_img from "../../assets/ay-pic.jpg"
 
 function Hero() {
     return (
