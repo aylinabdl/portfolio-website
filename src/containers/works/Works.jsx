@@ -11,7 +11,7 @@ import Taskies from '../../assets/projects/17.png'
 import FlyEase from '../../assets/projects/flyymo.png'
 import FinApp from '../../assets/projects/Frame 476.png'
 import viz from '../../assets/projects/cs doc.png'
-import pics from '../../assets/projects/csss.jpg'
+import pics from '../../assets/projects/piaacs.jpg'
 import finn from '../../assets/projects/Doc.png'
 import Fly from '../../assets/projects/Frame 495.png'
 
