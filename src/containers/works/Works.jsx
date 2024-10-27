@@ -22,7 +22,7 @@ function Works() {
         <h3>Check Out Some of My Projects.</h3>
             <div className='works-container'>
                 <Work image={dAP} title="Visitsho App" subTitle="Case Study" text="Simplifies booking and managing doctor appointments with reminders and secure scheduling."  caseStudyImage={viz}  />
-                <Work image={piazza} title="Piazza Redesign" subTitle="Case Study" text="Collaborative platform for students and instructors to share knowledge, homeworks and ask questions" caseStudyImage={pics}  />
+                <Work image={piazza} title="Piazza Redesign" subTitle="Case Study" text="Improve the usability of Piazza, focusing on a better posting flow and better accessibility to various class sections" caseStudyImage={pics}  />
                 <Work image={FinApp} title="Finance App" subTitle="UI/UX Design" text="Manage all your bank accounts, view balances, and track expenses with an intuitive and secure interface." caseStudyImage={finn} figmaLink="https://www.figma.com/design/ywm6BmEeu66NZqIp5CS8Bk/Finance-Application?node-id=0-1&t=uuwlcsu5JCQ1fqBa-1"/>
                 <Work image={FlyEase} title="Fly Ease" subTitle="UI/UX Design" text="FlyEase is a flight booking app that streamlines searches, bookings, and ticket management." caseStudyImage={Fly}/>
                 <Work image={MovieApp} title="MovieNet" subTitle="UI Design & Development" text="Discover and track movies and TV series with personalized recommendations." liveLink="https://movienet-project.netlify.app/" />
