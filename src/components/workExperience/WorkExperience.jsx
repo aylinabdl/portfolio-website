@@ -13,7 +13,7 @@ function WorkExperience() {
                 <h2>Work Experience And Courses</h2>
             </div>
             <div className='timeline-container'>
-                <TimelineBlock icon={<WorkIcon fontSize='large' />} title='Front-End Developer' duration='April - July 2024' company='Kanoon Informatic' text="I worked as a front-end developer at Kanoon Informatics Company and Rahnama Institute." />
+                <TimelineBlock icon={<WorkIcon fontSize='large' />} title='Web Designer' duration='April - July 2024' company='Kanoon Informatic' text="I worked as a front-end developer at Kanoon Informatics Company and Rahnama Institute." />
 
                 <TimelineBlock icon={<SchoolIcon fontSize='large' />} title='' duration='' company='Amanj Academy Product Bootcamp' text="I attended the Product Discovery Bootcamp at Amanj Academy, where I learned the essentials of user-centered design and product design. and completed a case study with their guidance." />
 
