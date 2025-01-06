@@ -30,7 +30,7 @@ function Works() {
                 <Work image={piazza} title="Piazza Redesign" subTitle="Case Study" text="Improve the usability of Piazza, focusing on a better posting flow & better accessibility to class sections" caseStudyImage={pics}  />
                
                 <Work image={Rahnama} title="Rahnama Website" subTitle="UI/UX Design" text="An E-Commerce website for Rahnama, created for Kanoon Informatics Company." caseStudyImage={Rahnamade}/>
-                <Work image={Travel} title="Travia" subTitle="UI/UX Design" text="This project aims to simplify finding, booking, and managing holiday stays by tackling key challenges in online accommodation booking.." figmaLink="https://www.figma.com/design/CiT5qGD4JJdaMaxR8LxfI9/Travia?node-id=281-3486&t=ax0o4ZsiD3LjnZiQ-1"/>
+                
                 <Work image={FinApp} title="Finance App" subTitle="UI/UX Design" text="Manage all your bank accounts, view balances, and track expenses with an intuitive and secure interface." caseStudyImage={finn} figmaLink="https://www.figma.com/design/ywm6BmEeu66NZqIp5CS8Bk/Finance-Application?node-id=0-1&t=uuwlcsu5JCQ1fqBa-1"/>
                 
                 
@@ -42,6 +42,7 @@ function Works() {
                {/*
                
                <Work image={Travel} title="Tourbama Landing" subTitle="UI/UX Design" text="Find and book exciting tours in , perfect for your next adventure." figmaLink="https://www.figma.com/design/KdjjGgklTNUwbV8P58ij49/Travel?node-id=0-35&t=PGf2yKRfliAv70EX-1" />
+<Work image={Travel} title="Travia" subTitle="UI/UX Design" text="This project aims to simplify finding, booking, and managing holiday stays by tackling key challenges in online accommodation booking.." figmaLink="https://www.figma.com/design/CiT5qGD4JJdaMaxR8LxfI9/Travia?node-id=281-3486&t=ax0o4ZsiD3LjnZiQ-1"/>
 */} 
             </div>
         </div>
