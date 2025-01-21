@@ -40,7 +40,7 @@ function Navbar() {
                             <div className='portfolio-navbar-menu-container-links'>
                                 <Menu />
                                 <div className='portfolio-navbar-menu-container-links-ctabtn'>
-                                    <a className='portfolio-navbar-menu-ctabtn' href='https://drive.google.com/file/d/1aqVp-3CVMDKvKDVW175scaAqepdNpvMr/view?usp=sharing'>My CV</a>
+                                    <a className='portfolio-navbar-menu-ctabtn' href='https://drive.google.com/file/d/1aGS-wS0Pk_t5if8g9eV6rVWgBj6iFpco/view?usp=sharing'>My CV</a>
                                 </div>
                             </div>
                         </div>

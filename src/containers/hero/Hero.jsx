@@ -15,7 +15,7 @@ function Hero() {
             <img src={my_img} alt="aylin" className='profile-image'/>
         </div>
         <h1 className='animated-text'>I’m Aylin Abdollahi</h1>
-        <h2>UX/UI Designer</h2>
+        <h2>Product Designer</h2>
         <p>My mission is to create engaging, user-friendly web interfaces and software solutions using advanced design and development tools.</p>
         <p>contact: <a href='mailto:ailinabdollahi113@gmail.com' style={{textDecoration: 'underline'}}>ailinabdollahi113@gmail.com</a></p>
         <a href='#works' className='explore-btn'>Explore my works</a>
