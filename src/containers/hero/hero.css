@@ -21,14 +21,14 @@
 .hero-content h1{
     font-family: var(--font-family);
     font-weight: 800;
-    font-size: 50px;
+    font-size: 45px;
     line-height: 70px;   
 }
 
 .hero-content h2{
     font-family: var(--font-family);
     font-weight: 500;
-    font-size: 30px;
+    font-size: 29px;
     color: #fff;
     margin-top: -5px;
     letter-spacing: 3px;
@@ -101,8 +101,8 @@
 }
 
 .profile-image {
-    width: 110px; /* سایز تصویر */
-    height: 110px;
+    width: 102px; /* سایز تصویر */
+    height: 102px;
     border-radius: 20%; /* برای دایره‌ای کردن تصویر */
     object-fit: cover; /* تصویر را به درستی در دایره جا می‌دهد */
     
@@ -143,7 +143,7 @@
 
 @media screen and (max-width: 490px) {
     .hero h1{
-        font-size: 36px;
+        font-size: 34px;
         line-height: 36px;
     }
 
@@ -193,8 +193,8 @@ html body [data-ca3_iconfont="ETmodules"]::before {
 
 .ca3-scroll-down-link {
   cursor:pointer;
-	height: 60px;
-	width: 80px;
+	height: 50px;
+	width: 70px;
 	margin: 0px 0 0 -40px;
 	line-height: 60px;
 	position: absolute;
@@ -273,7 +273,7 @@ html body [data-ca3_iconfont="ETmodules"]::before {
 }
 
 .tool-logo {
-    width: 45px; /* Adjust size */
+    width: 40px; /* Adjust size */
     height: auto;
     transition: transform 0.3s ease-in-out;
 }

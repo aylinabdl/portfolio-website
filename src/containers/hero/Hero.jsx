@@ -10,6 +10,7 @@ import Flow from "../../assets/workflow.png"
 import Research from "../../assets/search-user.png"
 import Code from "../../assets/code (1).png"
 import AB from "../../assets/ab-test.png"
+import analisys from "../../assets/bar-chart.png"
 
 function Hero() {
     return (
@@ -35,6 +36,7 @@ function Hero() {
                         <img src={Research} alt="React" className='tool-logo'/>
                         <img src={Code} alt="React" className='tool-logo'/>
                         <img src={AB} alt="React" className='tool-logo'/>
+                        <img src={analisys} alt="React" className='tool-logo'/>
                     </div>
     </div>
     <div className='hero-image'>
