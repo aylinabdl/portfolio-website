@@ -22,7 +22,7 @@ function Navbar() {
                     <Menu />
                 </div>
                 <div className='portfolio-navbar-ctabtn'>
-                    <a href='https://drive.google.com/file/d/1aGS-wS0Pk_t5if8g9eV6rVWgBj6iFpco/view?usp=sharing'>Download CV</a>
+                    <a href='https://drive.google.com/file/d/1GALxpSVXApHhfZPVOL41EYPyxnTK8yjZ/view?usp=sharing'>Download CV</a>
                 </div>
                 
                 <div className='portfolio-navbar-menu'>
@@ -34,7 +34,7 @@ function Navbar() {
                             <div className='portfolio-navbar-menu-container-links'>
                                 <Menu />
                                 <div className='portfolio-navbar-menu-container-links-ctabtn'>
-                                    <a className='portfolio-navbar-menu-ctabtn' href='https://drive.google.com/file/d/1aGS-wS0Pk_t5if8g9eV6rVWgBj6iFpco/view?usp=sharing'>My CV</a>
+                                    <a className='portfolio-navbar-menu-ctabtn' href='https://drive.google.com/file/d/1GALxpSVXApHhfZPVOL41EYPyxnTK8yjZ/view?usp=sharing'>My CV</a>
                                 </div>
                             </div>
                         </div>
