@@ -49,12 +49,12 @@
 .portfolio-navbar-menu-ctabtn {
     padding: 0.5rem 1rem;
     color: #fff;
-    background: #943dba;
+    background: #a052c2;
     font-family: var(--font-family);
     font-weight: 500;
-    font-size: 18px;
+    font-size: 17px;
     line-height: 25px;
-    border-radius: 5px;
+    border-radius: 10px;
     border: none;
     outline: none;
     cursor: pointer;

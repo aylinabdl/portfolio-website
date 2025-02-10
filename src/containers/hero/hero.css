@@ -139,7 +139,18 @@
     .hero-scroll-animation{
         display: none;
     }
+
+    .hero-tools {
+        flex-wrap: wrap;
+        gap: 10px; /* فاصله کمتر بین لوگوها */
+        justify-content: center;
+    }
+
+    .tool-logo {
+        width: 24px; /* کاهش بیشتر اندازه لوگو */
+    }
 }
+
 
 @media screen and (max-width: 490px) {
     .hero h1{

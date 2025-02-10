@@ -131,6 +131,7 @@
     align-items: center;
     color: #fff;
     margin-top: 1rem;
+    gap: 10px;
 }
 
 
@@ -142,7 +143,7 @@
     background-color: #943dba;
     height: 35px;
     width: 95px;
-    border-radius: 8px;
+    border-radius: 9px;
     display: flex;
     justify-content: center;
     align-items: center;
