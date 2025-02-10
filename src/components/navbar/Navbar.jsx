@@ -6,14 +6,8 @@ import { RiMenu3Line, RiCloseLine } from 'react-icons/ri'
 
 import logo from '../../assets/logo.svg'
 
-const Menu = () => (
-    <>
-    <p><a href='#home'>Home</a></p>
-    <p><a href='#services'>Services</a></p>
-    <p><a href='#about'>About</a></p>
-    
-    </>
-)
+const Menu = () => null; 
+
 
 function Navbar() {
     const [toggleMenu, setToggleMenu] = useState(false);

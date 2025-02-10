@@ -35,7 +35,7 @@
 }
 
 .hero-content p{
-    font-size: 20px;
+    font-size: 19px;
     line-height: 30px;
     color: var(--color-text);
 
@@ -97,13 +97,13 @@
 .profile-image-container {
     display: flex;
     justify-content: center;
-    margin-bottom: 10px; /* فاصله بین تصویر و نام */
+    margin-bottom: 15px; /* فاصله بین تصویر و نام */
 }
 
 .profile-image {
-    width: 100px; /* سایز تصویر */
-    height: 100px;
-    border-radius: 50%; /* برای دایره‌ای کردن تصویر */
+    width: 110px; /* سایز تصویر */
+    height: 110px;
+    border-radius: 20%; /* برای دایره‌ای کردن تصویر */
     object-fit: cover; /* تصویر را به درستی در دایره جا می‌دهد */
     
 }
@@ -263,4 +263,23 @@ html body [data-ca3_iconfont="ETmodules"]::before {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
   }
+
+  .hero-tools {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 30px; /* Space between logos */
+    margin-top: 60px;
+}
+
+.tool-logo {
+    width: 45px; /* Adjust size */
+    height: auto;
+    transition: transform 0.3s ease-in-out;
+}
+
+.tool-logo:hover {
+    transform: scale(1.1); /* Slight zoom effect */
+}
+
   

@@ -37,10 +37,10 @@ function Works() {
                 <Work image={MovieApp} title="MovieNet" subTitle="UI Design & Development" text="Discover and track movies and TV series with personalized recommendations." liveLink="https://movienet-project.netlify.app/" />
                 <Work image={digikala} title="Digikala Popular Products Challenge" subTitle="UI/UX Design" text="Adding Best Seller tag for quick product trust" caseStudyImage={dk} />
                 <Work image={FlyEase} title="Fly Ease" subTitle="UI/UX Design" text="FlyEase is a flight booking app that streamlines searches, bookings, and ticket management." caseStudyImage={Fly}/>
-                <Work image={Taskies} title="Taskies" subTitle="UI/UX Design" text="Organize tasks and projects, set priorities, and collaborate efficiently to achieve your goals." figmaLink="https://www.figma.com/design/oGh2yCbLYjoWyeohNJbzt3/Taskies?node-id=0-1&t=B9Ac4kx4vhUmrbsQ-1" />
                 
                {/*
-               
+               <Work image={Taskies} title="Taskies" subTitle="UI/UX Design" text="Organize tasks and projects, set priorities, and collaborate efficiently to achieve your goals." figmaLink="https://www.figma.com/design/oGh2yCbLYjoWyeohNJbzt3/Taskies?node-id=0-1&t=B9Ac4kx4vhUmrbsQ-1" />
+                
                <Work image={Travel} title="Tourbama Landing" subTitle="UI/UX Design" text="Find and book exciting tours in , perfect for your next adventure." figmaLink="https://www.figma.com/design/KdjjGgklTNUwbV8P58ij49/Travel?node-id=0-35&t=PGf2yKRfliAv70EX-1" />
 */} 
             </div>
