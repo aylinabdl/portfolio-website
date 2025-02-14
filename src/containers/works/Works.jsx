@@ -18,7 +18,7 @@ import digikala from '../../assets/projects/di.jpg'
 import dk from '../../assets/projects/Desktop - 1.png'
 import Rahnama from '../../assets/projects/16.png'
 import Rahnamade from '../../assets/projects/mini-rahnama.png'
-import POS from '../../assets/projects/100 (1).jpg'
+import POS from '../../assets/projects/pos-cover.jpg'
 import POSCS from '../../assets/projects/POS-CS.png'
 
 function Works() {
