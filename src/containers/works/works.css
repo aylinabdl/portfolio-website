@@ -19,6 +19,10 @@
 @media screen and (max-width: 480px) {
     .works-container{
         padding: 0;
-        
+    }
+}
+@media screen and (min-width: 1024px) {
+    .works-container {
+        justify-content: center; /* در صفحه‌های بزرگ، آیتم‌ها وسط‌چین بشن */
     }
 }
